@@ -1,12 +1,8 @@
 ---
-
 layout: post
-
 title:  Launch of New Accreditation Scope under Auditing Organisation Scheme
-
 date:   2022-02-18
-
-
+permalink: /newsroom/news-releases/Launch-of-New-Online-Learning-Portal
 ---
 
 **Launch of New Accreditation Scope under Auditing Organisation Scheme**
