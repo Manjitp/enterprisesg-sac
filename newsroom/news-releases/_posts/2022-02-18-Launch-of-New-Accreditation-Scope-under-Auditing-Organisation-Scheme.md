@@ -1,3 +1,16 @@
+---
+
+layout: post
+
+title:  Launch of New Accreditation Scope under Auditing Organisation Scheme
+
+date:   2022-02-18
+
+
+---
+
+**Launch of New Accreditation Scope under Auditing Organisation Scheme**
+
 The Singapore Accreditation Council (SAC) is pleased to announce the expansion of our Accreditation Scheme for Auditing Organisation (AO) to include Food Establishment Audits with effect from 22 February 2022.
 
  
